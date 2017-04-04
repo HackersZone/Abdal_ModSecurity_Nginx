@@ -29,7 +29,7 @@ You can download it from the ModSecurity git repository. For information pertain
 With libmodsecurity installed, you can proceed with the installation of the ModSecurity-nginx connector, which follow the Nginx 3rd party module installation procedure:
 
 ```
-./configure --add-module=/path/your/modsecurity-for-nginx
+./configure --add-module=/path/your/Abdal_ModSecurity_Nginx
 ```
 
 Further information about nginx 3rd party add-ons support are available here:
